@@ -1,0 +1,42 @@
+author			  = "notMONGCHAW";
+onLoadName		= "Operation: Line Break";
+onLoadMission	= "The LS Militia was able to secure Camp Maxwell and giving them control of half the island and forcing the NATO and AAF forces to form a front line.";
+loadScreen		= "images\MineonScreen.paa";
+class Header
+{
+	gameType = "Zeus";	// Game type
+};
+
+class CfgSounds
+{
+ tracks[]={};
+
+ class GunSound1 {
+  name = "GunSound1";
+  sound[] = {"\sounds\GunSound1.wav", 200, 1.0};
+  titles[] = {};
+ };
+
+class GroundAttenuation {
+  name = "GroundAttenuation";
+  sound[] = {"\sounds\GroundAttenuation.wav", 100, 1.0};
+  titles[] = {};
+ };
+ 
+ class Banter {
+  name = "Banter";
+  sound[] = {"\sounds\Banter.wav", 100, 1.0};
+  titles[] = {};
+ };
+
+class america {
+  name = "america";
+  sound[] = {"\sounds\america.wav", 100, 1.0};
+  titles[] = {};
+ };
+class GK_Radio5 {
+  name = "GK_Radio5";
+  sound[] = {"\sounds\GK_Radio5.wav", 100, 1.0};
+  titles[] = {};
+ };
+};
