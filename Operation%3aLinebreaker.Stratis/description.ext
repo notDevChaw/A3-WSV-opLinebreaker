@@ -1,6 +1,6 @@
 author			  = "notMONGCHAW";
 onLoadName		= "Operation: Line Break";
-onLoadMission	= "The LS Militia was able to secure Camp Maxwell and giving them control of half the island and forcing the NATO and AAF forces to form a front line.";
+onLoadMission	= "In 1816, Congress chartered The Second Bank of the United States. Although the bank was largely privately-owned, it was incorporated by Congress. In 1818, the state of Maryland passed legislation to impose taxes on the bank. James W. McCulloch, the cashier of the Baltimore branch of the bank, refused to pay the tax";
 loadScreen		= "images\MineonScreen.paa";
 class Header
 {
