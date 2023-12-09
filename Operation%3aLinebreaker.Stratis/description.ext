@@ -11,18 +11,6 @@ class CfgSounds
 {
  tracks[]={};
 
- class GunSound1 {
-  name = "GunSound1";
-  sound[] = {"\sounds\GunSound1.wav", 200, 1.0};
-  titles[] = {};
- };
-
-class GroundAttenuation {
-  name = "GroundAttenuation";
-  sound[] = {"\sounds\GroundAttenuation.wav", 100, 1.0};
-  titles[] = {};
- };
- 
  class Banter {
   name = "Banter";
   sound[] = {"\sounds\Banter.wav", 100, 1.0};
